@@ -6,7 +6,4 @@ public class Child extends Parent{
 		super.display();
 	}
 
-	public void run(){
-		System.out.println("I am running");
-	}
 }
