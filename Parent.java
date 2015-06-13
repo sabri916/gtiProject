@@ -4,4 +4,8 @@ public class Parent{
 		System.out.println("I am a Parent");
 		System.out.println("Trying out something else");
 	}
+
+	public void rubbish(){
+		
+	}
 }
