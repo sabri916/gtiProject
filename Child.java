@@ -5,4 +5,8 @@ public class Child extends Parent{
 		System.out.print("This is what my Parent has to say: ");
 		super.display();
 	}
+
+	public void run(){
+		System.out.println("I am running");
+	}
 }
