@@ -8,6 +8,7 @@ public class Child extends Parent{
 
 	public void run(){
 		System.out.println("I am running");
+		System.out.println("Just adding another line for conflict");
 	}
 	public void walk(){
 		System.out.prinln("I am walking");
