@@ -112,22 +112,6 @@
 	"buffers":
 	[
 		{
-			"file": "Parent.java",
-			"settings":
-			{
-				"buffer_size": 89,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Child.java",
-			"settings":
-			{
-				"buffer_size": 305,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "Client.java",
 			"settings":
 			{
@@ -172,6 +156,8 @@
 	],
 	"file_history":
 	[
+		"/home/sabri/code/gitProject/Child.java",
+		"/home/sabri/code/gitProject/Parent.java",
 		"/home/sabri/code/gitProject/untitled.sublime-project",
 		"/media/sabri/Data/sabri/Dropbox/Documents/Code/OOP/Parent.java",
 		"/media/sabri/Data/sabri/Dropbox/Documents/Code/OOP/Child.java",
@@ -255,67 +241,11 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Parent.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 89,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Child.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 305,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								240,
-								240
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "Client.java",
 					"semi_transient": false,
 					"settings":
@@ -339,7 +269,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
